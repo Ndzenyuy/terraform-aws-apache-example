@@ -1,6 +1,6 @@
 Terraform module to provision an EC2 instance running APACHE
 
-Not for production but for showcasing creating and hosting of a module on terraform registary
+Not for production but for showcasing the creation and hosting of a module on terraform registry
 
 ```hcl
 provider "aws" {
